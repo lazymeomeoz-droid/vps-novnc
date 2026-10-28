@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://related-viewed-nominations-burns.trycloudflare.com/vnc.html
+URL       : https://short-sets-soon-link.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-27 23:27:02
+Created   : 2026-10-28 03:18:58
 =======================================================
