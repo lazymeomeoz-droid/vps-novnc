@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lancaster-yale-licensing-quizzes.trycloudflare.com/vnc.html
+URL       : https://temporarily-terminology-urge-previews.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 20:04:14
+Created   : 2026-10-29 00:04:14
 =======================================================
