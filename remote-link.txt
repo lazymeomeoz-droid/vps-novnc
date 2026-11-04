@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cattle-significant-tiffany-cancellation.trycloudflare.com/vnc.html
+URL       : https://pty-burlington-driven-prefers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 20:45:38
+Created   : 2026-11-04 04:09:13
 =======================================================
